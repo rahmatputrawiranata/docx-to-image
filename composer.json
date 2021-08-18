@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpoffice/phpword": "^0.18.2",
+        "dompdf/dompdf": "^1.0",
+        "ncjoes/office-converter": "^1.0",
+        "tecnickcom/tcpdf": "^6.4",
+        "mnvx/lowrapper": "^1.0"
+    }
+}
